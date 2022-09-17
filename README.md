@@ -1,2 +1,2 @@
 # contando
-Solução do exercício Cidades
+Solução do exercício contagemRegressiva
