@@ -1,7 +1,6 @@
-﻿
-Console.WriteLine("Ajeitar essa arma aí...");
+﻿Console.WriteLine("Ajeita essa arma aí...");
 Console.ReadKey();
-Console.WriteLine("Aponta ela...");
+Console.WriteLine("Agora aponta ela...");
 Console.ReadKey();
-Console.WriteLine("METE BALA DOIDO!");
+Console.WriteLine("agora...METE BALA DOIDO!");
 Console.ReadKey();
